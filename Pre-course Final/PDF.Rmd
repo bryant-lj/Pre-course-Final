@@ -1,0 +1,17 @@
+---
+title: "HelloWorld"
+author: "Laura Bryant"
+date: "2023-02-13"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+
+
+## R Markdown
+
+## This is a markdown file
+
